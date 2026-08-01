@@ -1,0 +1,19 @@
+{
+<<<<<<< HEAD
+  "exposure": 0.2
+}
+=======
+  "name": "woocommerce-default",
+  "format": "JPEG",
+  "quality": 85,
+  "resize": {
+    "width": 2000,
+    "height": 2000,
+    "keep_aspect": true
+  },
+  "exports": [
+    {"name": "web", "format": "JPEG", "quality": 85},
+    {"name": "thumbnail", "format": "PNG", "quality": 90}
+  ]
+}
+>>>>>>> 6eb822cc94213bf390d7c5b94e4d23cab996c31a

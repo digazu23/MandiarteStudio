@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+__pycache__/
+*.pyc
+output/
+.venv/
+=======
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+.venv/
+venv/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Logs
+
+logs/
+*.log
+
+# Generated Images
+
+output/
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# Settings
+
+settings.local.json
+>>>>>>> 6eb822cc94213bf390d7c5b94e4d23cab996c31a

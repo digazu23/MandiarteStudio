@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+opencv-python
+numpy
+Pillow
+customtkinter
+pillow-heif
+psutil
+=======
+opencv-python>=4.12
+
+numpy>=2.3
+
+Pillow>=11.3
+
+customtkinter>=5.2
+
+pillow-heif>=1.1
+
+psutil>=7.0
+>>>>>>> 6eb822cc94213bf390d7c5b94e4d23cab996c31a

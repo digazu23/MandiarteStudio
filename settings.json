@@ -1,0 +1,18 @@
+{
+<<<<<<< HEAD
+  "profile": "woocommerce",
+  "output_size": 1200,
+  "jpeg_quality": 95,
+  "output_folder": "Procesadas",
+  "max_workers": 0,
+  "theme": "light"
+}
+=======
+    "profile": "woocommerce",
+    "output_size": 1200,
+    "jpeg_quality": 95,
+    "output_folder": "Procesadas",
+    "max_workers": 0,
+    "theme": "light"
+}
+>>>>>>> 6eb822cc94213bf390d7c5b94e4d23cab996c31a
